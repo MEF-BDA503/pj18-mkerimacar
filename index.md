@@ -6,6 +6,6 @@ Thanks for tuning in.
 
 ## Week II (October 17, 2018)
 
-Assignment is about Rmarkdown. Here is the ([link](pj18-mkerimacar/BDA_Assignment1_Kerim.html)) for it.
+Assignment I is about R-markdown. Here is the [link](pj18-mkerimacar/BDA_Assignment1_Kerim.html) for it.
 
 ## Week III (October 31, 2018)
