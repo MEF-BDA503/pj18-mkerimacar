@@ -5,10 +5,10 @@ Thanks for tuning in.
 
 ## Assignment I (October 3, 2018)
 
-Assignment I is about R-markdown. Link is [here](pj18-mkerimacar/BDA_Assignment1_Kerim.html).
+Assignment I is about R-markdown. Link is [here](/BDA_Assignment1_Kerim.html).
 
 
 ## Assignment II (October 31, 2018)
 
 Subject of Assignment II is data manipulation with "dplyr".
-Here is the of my RMarkdown [file](pj18-mkerimacar/odd_manipulation_Kerim.html)
+Here is the of my RMarkdown [file](/odd_manipulation_Kerim.html)
