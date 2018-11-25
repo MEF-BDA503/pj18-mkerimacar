@@ -13,6 +13,10 @@ Assignment I is about R-markdown. Link is [here](https://mef-bda503.github.io/pj
 Subject of Assignment II is data manipulation of ODD Retail Sales with "dplyr".
 Here is the my RMarkdown [file](https://mef-bda503.github.io/pj18-mkerimacar/odd_manipulation_Kerim.html).
 
+## Assignment III (November 11, 2018)
+
+[EGM Analysis](https://mef-bda503.github.io/pj18-mkerimacar/EGM_Analysis1.html)
+      
 
 ## Assignment IV (November 25, 2018)
 
