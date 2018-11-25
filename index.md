@@ -18,4 +18,4 @@ Here is the my RMarkdown [file](https://mef-bda503.github.io/pj18-mkerimacar/odd
 
 In the analysis of total car sales in 3 years, I've found an evidence that top sellers follow the same trend.
 
-[ODD Sales Data General Analysis] (https://mef-bda503.github.io/pj18-mkerimacar/ODD_General_Analysis.html)
+[ODD Sales Data Analysis](https://mef-bda503.github.io/pj18-mkerimacar/ODD_General_Analysis.html)
